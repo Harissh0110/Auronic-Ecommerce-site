@@ -192,7 +192,7 @@ const ProductScreen = () => {
                                                       </Form.Control>
                                                   </Form.Group>
 
-                                                  <Form.Group controlId='comment'>
+                                                  <Form.Group controlId='comment' className='py-3'>
                                                       <Form.Label>Review</Form.Label>
                                                       <Form.Control
                                                           as='textarea'
